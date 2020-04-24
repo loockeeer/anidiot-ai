@@ -4,7 +4,7 @@
     "discord.js": "^12.2.0"
   },
   "name": "anidiot-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package for making some cool idiots with some AI !",
   "main": "index.js",
   "repository": "https://github.com/loockeeer/anidiot-ai",
