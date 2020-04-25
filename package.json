@@ -1,13 +1,14 @@
 {
+  "noImplicitAny": true,
   "dependencies": {
     "brain.js": "^2.0.0-alpha.12",
     "discord.js": "^12.2.0"
   },
   "name": "anidiot-ai",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package for making some cool idiots with some AI !",
-  "main": "index.js",
   "repository": "https://github.com/loockeeer/anidiot-ai",
   "author": "Loockeeer",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "./src/main.js"
 }
